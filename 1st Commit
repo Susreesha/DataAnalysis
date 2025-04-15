@@ -1,0 +1,7 @@
+echo "# DataAnalysis" >> README.md
+git init
+git add README.md
+git commit -m "Data Analysis"
+git branch -M main
+git remote add origin https://github.com/Susreesha/DataAnalysis.git
+git push -u origin main
